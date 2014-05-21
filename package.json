@@ -1,0 +1,7 @@
+{
+  "name": "grunt-svnup",
+  "version": "0.0.3",
+  "description": "Grunt task for svn update",
+  "author": "xsbchen",
+  "license": "ISC"
+}
